@@ -156,7 +156,8 @@ def main(args, configs):
                 quit()
             step += 1
             outer_bar.update(1)
-
+            torch.cuda.empty_cache()
+            
         inner_bar.update(1)
         epoch += 1
 
