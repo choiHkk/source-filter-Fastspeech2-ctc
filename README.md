@@ -33,11 +33,12 @@
 10. (OPTIONAL) `tensorboard --logdir=outdir/logdir`
 
 ## Tensorboard losses
-![FastSpeech2-tensorboard-losses](https://user-images.githubusercontent.com/69423543/183047356-3fb819ee-dee1-40fb-9432-778a8b488202.png)
+![source-filter-FastSpeech2-ctc-tensorboard-losses](https://user-images.githubusercontent.com/69423543/203502687-4c770ff8-ddc0-4432-bb41-fa35f4fd43ab.png)
 
 ## Tensorboard Stats
-![FastSpeech2-tensorboard-stats1](https://user-images.githubusercontent.com/69423543/183047576-55743354-1286-42d8-8b43-b95bbd71aea1.png)
-![FastSpeech2-tensorboard-stats2](https://user-images.githubusercontent.com/69423543/183047734-796ed638-4fe1-405b-acc6-092420b835cd.png)
+![source-filter-FastSpeech2-ctc-tensorboard-stats](https://user-images.githubusercontent.com/69423543/203502730-ecc3d977-20d7-4f2e-a3d8-b839a859f5ec.png)
+![source-filter-FastSpeech2-ctc-tensorboard-alignments](https://user-images.githubusercontent.com/69423543/203502745-a24635cb-0721-45c9-b038-bd3936fbea59.png)
+
 
 ## Reference
 1. [FastPitchFormant: Source-filter based Decomposed Modeling for Speech Synthesis](https://arxiv.org/abs/2106.15123)
